@@ -1,5 +1,5 @@
 package car.dealership;
-
+/*Creating a conflict to practice github*/
 public class Customer {
 
 	private String custName;
